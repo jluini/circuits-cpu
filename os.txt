@@ -1,0 +1,18 @@
+# os.txt
+
+# print help
+
+puts h
+puts e
+puts l
+puts l
+puts o
+puts \n
+
+puts >
+puts space
+
+consume char
+
+
+
